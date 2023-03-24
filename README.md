@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Anirban Kundu
 #### Software Developer 
-![Software Developer ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nsdfg&psig=AOvVaw0uS5IDk_DmMezJftrX_agE&ust=1679749910906000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNj1vJXS9P0CFQAAAAAdAAAAABAa)
+![Software Developer ](https://avatars.githubusercontent.com/u/72909314?s=400&u=73c62d6b38447800a16e244c3338ba32efca8801&v=4)
 
 Hello!! I am Anirban Kundu. I have completed B.Tech from National Institute of Technology Meghalaya. Currently working as Software Developer at IBCS-PRIMAX Software LTD.
 
