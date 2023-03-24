@@ -18,6 +18,4 @@ Skills: REACT / JS / HTML / CSS/NODE/EXPRESS/MONGODB/BOOTSTRAP/TAILWIND/MATERIAL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anirbankundunitm&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anirbankundunitm)  
-
 ![Profile views](https://gpvc.arturio.dev/anirbankundunitm)  
