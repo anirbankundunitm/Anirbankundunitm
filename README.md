@@ -1,7 +1,6 @@
+![Software Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, my name is Anirban Kundu
 #### Software Developer 
-![Software Developer ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 Hello!! I am Anirban Kundu. I have completed B.Tech from National Institute of Technology Meghalaya. Currently working as Software Developer at IBCS-PRIMAX Software LTD.
 
 Skills: REACT / JS / HTML / CSS/NODE/EXPRESS/MONGODB/BOOTSTRAP/TAILWIND/MATERIAL UI/MYSQL
