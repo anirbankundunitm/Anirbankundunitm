@@ -1,4 +1,4 @@
-![Software Developer ](https://avatars.githubusercontent.com/u/72909314?s=400&u=73c62d6b38447800a16e244c3338ba32efca8801&v=4)
+![Software Developer ]
 # Hello!!! 👋, I am Anirban Kundu.
 ## Software Developer 
 
