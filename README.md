@@ -1,4 +1,4 @@
-![Software Developer ]
+Software Developer 
 # Hello!!! 👋, I am Anirban Kundu.
 ## Software Developer 
 
