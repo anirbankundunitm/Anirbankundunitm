@@ -5,7 +5,7 @@ Software Developer
 
 Hello!! I am Anirban Kundu. I have completed B.Tech from National Institute of Technology Meghalaya. Currently working as Software Developer at IBCS-PRIMAX Software LTD.
 
-Skills: REACT / JS / HTML / CSS/NODE/EXPRESS/MONGODB/BOOTSTRAP/TAILWIND/MATERIAL UI/MYSQL
+Skills: HTML/CSS/Javascript/React/Material UI/Java/Spring/Oracle
 
 - 🔭 I’m currently working on React 
 - 🌱 I’m currently learning Java 
